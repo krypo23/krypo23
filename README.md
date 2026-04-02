@@ -43,7 +43,7 @@ Sistema de gestión de tareas Full-Stack. Arquitectura MVC estructurada en Node.
 📌 **[Buscador de Recetas](https://github.com/krypo23/EF-M3_Proyecto-Integrador-Sprint_1)**
 Single Page Application (SPA) optimizada. Integración de APIs RESTful externas, manejo asíncrono avanzado y gestión de estado utilizando Vanilla JavaScript puro.
 
-📌 **[NeoInformatica](https://neoinformatica.cl/)**
+📌 <strong><a href="https://neoinformatica.cl/" target="_blank" rel="noopener noreferrer">NeoInformatica</a></strong>
 Landing Page en progreso de mi empresa
 
 
